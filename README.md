@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Project-Management-Issue-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Management-Issue-Tracking?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Project-Management-Issue-Tracking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Project-Management-Issue-Tracking?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Project-Management-Issue-Tracking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Project-Management-Issue-Tracking?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Project-Management-Issue-Tracking/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -55,81 +55,81 @@ The following table summarizes industry-leading hosted project management and is
 
 ## 💻 Open-Source GitHub Projects
 
-Curated self-hosted project managers, issue trackers, and Kanban boards. Each repository includes a real-time star badge linked directly to its GitHub stargazers page, sorted in descending order by GitHub stars:
+Curated self-hosted project managers, issue trackers, and Kanban boards. Each repository includes a real-time Stars_Badge linked directly to its GitHub stargazers page, sorted in descending order by GitHub_Stars:
 
-- **[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   *Open-source Notion and ClickUp alternative built with Flutter and Rust, featuring visual Kanban boards, relational databases, offline-first notes, and team task views.*
 
-- **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   *All-in-one workspace uniting structured task databases, visual whiteboards, and multimodal planning documents into an open-source project management canvas.*
 
-- **[nocodb/nocodb](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+- **[nocodb/nocodb](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
   *Open-source Airtable alternative transforming any MySQL, PostgreSQL, or SQLite database into an agile smart spreadsheet with Kanban, Grid, and Form views.*
 
-- **[makeplane/plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+- **[makeplane/plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
   *Modern open-source software development tracker and Linear/Jira alternative featuring sprint Cycles, Modules, Pages, Kanban boards, and GitHub sync.*
 
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   *Modern open-source CRM and collaborative project pipeline engine providing full data ownership, visual deal boards, task workflows, and rich API extensions.*
 
-- **[go-gitea/gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+- **[go-gitea/gitea](https://github.com/go-gitea/gitea)** [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
   *Painless, lightweight self-hosted Git service written in Go with built-in issue tracking, milestones, labels, and customizable Kanban project boards.*
 
-- **[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)** [![GitHub stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=social&color=white)](https://github.com/BloopAI/vibe-kanban/stargazers)  
+- **[BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)** [![GitHub_Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=social&color=white)](https://github.com/BloopAI/vibe-kanban/stargazers)  
   *AI-native developer Kanban workspace designed to coordinate autonomous coding agents, triage issue backlogs, and streamline engineering tasks.*
 
-- **[hcengineering/platform (Huly)](https://github.com/hcengineering/platform)** [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+- **[hcengineering/platform (Huly)](https://github.com/hcengineering/platform)** [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
   *All-in-one open-source workspace and Linear/Slack alternative combining lightning-fast issue tracking, virtual office spaces, project roadmaps, and chat.*
 
-- **[mattermost-community/focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+- **[mattermost-community/focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
   *Open-source multilingual project management alternative to Trello, Notion, and Asana with Kanban, table, and gallery views for teams.*
 
-- **[wekan/wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+- **[wekan/wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
   *The open-source collaborative Kanban board application built on Meteor, supporting swimlanes, subtasks, checklists, card templates, and LDAP/OAuth.*
 
-- **[opf/openproject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+- **[opf/openproject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
   *Comprehensive enterprise open-source project management platform supporting classic Gantt charts, agile Scrum/Kanban boards, roadmaps, and cost estimation.*
 
-- **[theonedev/onedev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
+- **[theonedev/onedev](https://github.com/theonedev/onedev)** [![GitHub_Stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
   *Self-hosted Git server with integrated issue management, customizable Kanban boards, CI/CD pipelines, and deep code search capabilities.*
 
-- **[plankanban/planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+- **[plankanban/planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
   *Elegant, real-time open-source Kanban tracking board built with React and Redux, featuring project boards, lists, cards, labels, and timer attachments.*
 
-- **[phacility/phabricator](https://github.com/phacility/phabricator)** [![GitHub stars](https://img.shields.io/github/stars/phacility/phabricator?style=social&color=white)](https://github.com/phacility/phabricator/stargazers)  
+- **[phacility/phabricator](https://github.com/phacility/phabricator)** [![GitHub_Stars](https://img.shields.io/github/stars/phacility/phabricator?style=social&color=white)](https://github.com/phacility/phabricator/stargazers)  
   *Legendary open-source engineering suite including Maniphest task tracking, Differential code review, and project workboards (succeeded by Phorge).*
 
-- **[Leantime/leantime](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+- **[Leantime/leantime](https://github.com/Leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
   *Open-source strategic project management system combining lean canvas strategy, milestones, retrospectives, and ADHD/neurodivergent-friendly task workflows.*
 
-- **[kanboard/kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+- **[kanboard/kanboard](https://github.com/kanboard/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
   *Minimalist, zero-friction open-source Kanban project management software focused on WIP limits, simplicity, and SQLite/PostgreSQL deployability.*
 
-- **[baserow/baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+- **[baserow/baserow](https://github.com/baserow/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
   *Open-source no-code database and project tracker built with Django and Vue, offering custom Kanban workflows and real-time multi-user collaboration.*
 
-- **[GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
+- **[GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)** [![GitHub_Stars](https://img.shields.io/github/stars/GothenburgBitFactory/taskwarrior?style=social&color=white)](https://github.com/GothenburgBitFactory/taskwarrior/stargazers)  
   *Fast, scriptable CLI task and issue tracker for terminal-centric developers with urgency calculations, custom filters, and sync capabilities.*
 
-- **[go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+- **[go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
   *High-speed self-hosted to-do list and project organizer featuring Kanban boards, Gantt charts, reminders, subtasks, and CalDAV synchronization.*
 
-- **[redmine/redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
+- **[redmine/redmine](https://github.com/redmine/redmine)** [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
   *Battle-tested open-source issue tracker and project management web application written in Ruby on Rails with multi-project support and wiki engines.*
 
-- **[anmolkapil/plexo](https://github.com/anmolkapil/plexo)** [![GitHub stars](https://img.shields.io/github/stars/anmolkapil/plexo?style=social&color=white)](https://github.com/anmolkapil/plexo/stargazers)  
+- **[anmolkapil/plexo](https://github.com/anmolkapil/plexo)** [![GitHub_Stars](https://img.shields.io/github/stars/anmolkapil/plexo?style=social&color=white)](https://github.com/anmolkapil/plexo/stargazers)  
   *Next-generation open-source AI-native project management and agile issue tracking system engineered as an ultra-fast self-hosted alternative to Linear.*
 
-- **[kimai/kimai](https://github.com/kimai/kimai)** [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)  
+- **[kimai/kimai](https://github.com/kimai/kimai)** [![GitHub_Stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)  
   *Open-source project time tracking, timesheets, budgeting, and invoicing web application designed to integrate alongside issue trackers.*
 
-- **[taigaio/taiga-docker](https://github.com/taigaio/taiga-docker)** [![GitHub stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)  
+- **[taigaio/taiga-docker](https://github.com/taigaio/taiga-docker)** [![GitHub_Stars](https://img.shields.io/github/stars/taigaio/taiga-docker?style=social&color=white)](https://github.com/taigaio/taiga-docker/stargazers)  
   *Containerized distribution of Taiga, the agile project management platform for startups and agile developers with Scrum and Kanban boards.*
 
-- **[mantisbt/mantisbt](https://github.com/mantisbt/mantisbt)** [![GitHub stars](https://img.shields.io/github/stars/mantisbt/mantisbt?style=social&color=white)](https://github.com/mantisbt/mantisbt/stargazers)  
+- **[mantisbt/mantisbt](https://github.com/mantisbt/mantisbt)** [![GitHub_Stars](https://img.shields.io/github/stars/mantisbt/mantisbt?style=social&color=white)](https://github.com/mantisbt/mantisbt/stargazers)  
   *Popular, lightweight open-source web-based bug and defect tracking system built in PHP with custom issue lifecycles and email notifications.*
 
-- **[bugzilla/bugzilla](https://github.com/bugzilla/bugzilla)** [![GitHub stars](https://img.shields.io/github/stars/bugzilla/bugzilla?style=social&color=white)](https://github.com/bugzilla/bugzilla/stargazers)  
+- **[bugzilla/bugzilla](https://github.com/bugzilla/bugzilla)** [![GitHub_Stars](https://img.shields.io/github/stars/bugzilla/bugzilla?style=social&color=white)](https://github.com/bugzilla/bugzilla/stargazers)  
   *Classic enterprise-grade open-source defect and issue tracking system trusted worldwide by foundational software projects and hardware manufacturers.*
 
 ---
@@ -149,7 +149,7 @@ Contributions are very welcome! If you know of an awesome SaaS platform or self-
 1. **Fork** this repository.
 2. **Create a branch**: `git checkout -b feature/add-new-tool`
 3. **Add your entry** in `README.md` keeping alphabetical or star-sorted ordering.
-4. **Ensure links and details** (pricing, free tier, or repository stars badge) are accurate and factual.
+4. **Ensure links and details** (pricing, free tier, or repository Stars_Badge) are accurate and factual.
 5. **Submit a Pull Request** with a descriptive summary of the project.
 
 ---
